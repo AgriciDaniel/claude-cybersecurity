@@ -41,6 +41,12 @@ bash install.sh
 irm https://raw.githubusercontent.com/AgriciDaniel/claude-cybersecurity/main/install.ps1 | iex
 ```
 
+## Demo
+
+https://youtu.be/aE295lLPO5A
+
+---
+
 ## Quick Start
 
 ```bash
